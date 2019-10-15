@@ -1,1 +1,3 @@
 # bhagyashree
+github
+computer
